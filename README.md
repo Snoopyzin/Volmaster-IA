@@ -1,20 +1,21 @@
-# 🤖 Projeto Botflix
+🤖 Projeto Volmaster IA - Solução Corporativa
+🔍 Sobre o Projeto
+O Volmaster IA é um assistente de inteligência artificial personalizado, desenvolvido para otimizar processos internos e o fluxo de informações dentro da empresa.
 
-![Project image](src/images/imagem-projeto.png)
+Originalmente concebido durante a Imersão DEV do Futuro (Dev em Dobro), o projeto foi totalmente reestruturado e customizado para atender às necessidades específicas do ambiente corporativo, deixando de ser um buscador de entretenimento para se tornar uma ferramenta de produtividade.
 
-## 🔍 Sobre o Projeto
-Projeto desenvolvido durante o evento online Imersão DEV do Futuro, promovido pelo canal Dev em Dobro.
-O objetivo foi aprofundar os estudos em programação, com foco em integração de IA, consumo de APIs e automação com N8N.
+O sistema permite que colaboradores realizem consultas rápidas, obtenham orientações e acessem dados estratégicos através de uma interface intuitiva, integrando o poder de processamento de linguagem natural diretamente no fluxo de trabalho da organização.
 
-O Botflix é um assistente de inteligência artificial projetado para recomendar o filme ideal de acordo com a necessidade do usuário.
-A aplicação utiliza um fluxo de automação no N8N, integrado à API The Movie DB, para buscar e retornar sugestões de filmes.
+🚀 Funcionalidades Principais
+Consulta Inteligente: Interface otimizada para buscas técnicas e suporte à tomada de decisão.
 
-O usuário pode realizar pesquisas por meio de um campo de busca, digitando palavras-chave e pressionando Enter ou clicando em um botão.
-O sistema retorna um filme compatível com a busca, exibindo capa, título, descrição e avaliação.
+Integração de Dados: Consumo de APIs personalizadas para retornar informações precisas e atualizadas.
 
-## 🛠️ Tecnologias Utilizadas
-<div style="display: inline_block">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+Interface Customizada: Layout adaptado à identidade visual da empresa, focando em usabilidade e performance.
+
+Resposta Dinâmica: Renderização em tempo real de dados, facilitando a visualização de relatórios ou orientações rápidas.
+
+🛠️ Tecnologias Utilizadas
+HTML5 & CSS3: Interface moderna, responsiva e alinhada ao branding corporativo.
+
+JavaScript (ES6+): Lógica de integração, manipulação assíncrona de dados e controle de estado da aplicação.
