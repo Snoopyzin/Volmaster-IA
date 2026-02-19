@@ -16,6 +16,7 @@ Interface Customizada: Layout adaptado à identidade visual da empresa, focando 
 Resposta Dinâmica: Renderização em tempo real de dados, facilitando a visualização de relatórios ou orientações rápidas.
 
 🛠️ Tecnologias Utilizadas
-HTML5 & CSS3: Interface moderna, responsiva e alinhada ao branding corporativo.
+HTML5, CSS3 e JAVASCRIPT: Interface moderna, responsiva e alinhada ao branding corporativo.
 
-JavaScript (ES6+): Lógica de integração, manipulação assíncrona de dados e controle de estado da aplicação.
+
+
